@@ -11,5 +11,9 @@
 [link](https://learngitbranching.js.org/)
 5. *Effective pull requests and other good practices for teams using github*
 [link](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github//)
+6. *Right-engineering, right-documenting*
+[link](https://alx-intranet.hbtn.io/concepts/6)
+7. *Source code management*
+[link](https://alx-intranet.hbtn.io/concepts/22)
 
 

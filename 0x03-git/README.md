@@ -1,4 +1,4 @@
-## 0x01. Git 
+## 0x03. Git 
 **Some resources for Git and github learning.**
 <br/><br/>
 1. *Resources to learn git*
